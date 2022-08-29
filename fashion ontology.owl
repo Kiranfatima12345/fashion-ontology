@@ -1,0 +1,2985 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/softage/ontologies/2022/4/Fashion"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/softage/ontologies/2022/4/Fashion">
+    <Prefix name="" IRI="http://www.semanticweb.org/softage/ontologies/2022/4/Fashion"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal xml:lang="en">this ontology about fashion</Literal>
+    </Annotation>
+    <Declaration>
+        <Class IRI="#Accessaries"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Analog_Watches"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ankle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Backpack_Purse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bangles"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Barbie_shoes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bodysuits"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Boot"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Boski_shalwar_kmeez"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bow_tie"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Brecletes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cardigan"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cargo_pants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cashmere"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Catchers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Chappal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Charms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Chicken"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Chiffon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Choker"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Choker_Necklaces"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Chokers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Clips"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Clothing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cluster"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Coat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Coat_shoes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Collar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cosmetics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cotton"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cotton_shalwar_kmeez"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Crepe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Crew"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Crew_neck"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dangle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Denim"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Digital_Watches"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dress_pants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Drop"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Duffle_coat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Earrings"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fabric_gloves"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fashion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Feather_Necklaces"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Female_Accessaries"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Female_Brecletes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Female_Necklaces"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Female_Shoes_variety"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Flannel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Flat_shoes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fleece"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Glasses"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Gloves"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hair_pins"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hand_and_arm_wear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hand_bags"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Handmade_Nacklaces"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Heels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hiking_pants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hobo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hooded"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hoops"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Jacket"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Jackets"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Jeans"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Joggers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Jumpsuits"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Kevlar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Khaki"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Khari_sandal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Kitten_heel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Kmeez_shalwar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Knee"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Kurta_shalwar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Laceup_Heel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Latex_gloves"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Lawa_zari"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Lawn"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Leather"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Leather_golves"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Locket"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Long_Shoes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Male_Accessaries"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Male_Shoes_variety"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Metal_bead"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mid_rings"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Narrow_pants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Neck_wear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Necklaces"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Necktie"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Neclaces"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Nosepins"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Noserings"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Onesie"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Opera"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Organza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Over_coat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Oxfords"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pakistani_shalwar_kmeez"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pandent_Necklaces"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pant_coat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pendant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pendant_Necklaces"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Polyester"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Puffer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Puffer_coat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pumps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Quarter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Quarter_zip"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rings"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rompers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sandals"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Satin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#School_Shoes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#School_shoes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Shalwar_kmeez"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sharwani"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Short_frocks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Shorts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sleepers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sleeveless"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sleeveless_shirts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Smart_Watches"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sneakers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sneakers_shoes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Socks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Stiletto_Heel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Stone_bead"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Stud"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Summer_Fabrics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sweaters"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#T_shirts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#The_ascot"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#The_bolo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tilly_wali"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tote"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tracksuit_bottoms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Traditional_coat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Turtle_neck"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Velvet"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Watches"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wedding_Wear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wedding_wear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wedge"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Winter_Fabrics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wooden_bead"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wool"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Zip_up"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#abaya_caps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#abayas"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#anarakali_style"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ankle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#anklet"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#baggy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#baguetta"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ball_gown"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#batwing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bb_creams"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bell"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bell_bottoms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#beret"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#blouse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bonnets"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bubble"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#butterfly"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#capri_pents"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#cardigan"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#cargo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#cascade"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#chains"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#childern_clothing_variety"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#children_Shoes_variety"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#classic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#close_boddied"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#clutches"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#coat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#coin_bags"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#collars"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#concealers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#corset"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#cowl"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#creams"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#crew"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#cropped"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#culottes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#denim"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#designer_saree"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dress"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dupatta"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eastren"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#embrioded_caps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eyewears"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fabric_gloves"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fabrics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#facewears"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fanny_pack"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#female_clothing_variety"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#flarred"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#floor_length_gown"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#foot_wear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#foundations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#front_slit_style"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fur"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gathered"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gloves"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gowns"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#grannys"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hair_accessories"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#half_zipper"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hand_accessories"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hand_and_arm_coverings"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#harem"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#head_wear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#heels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hood"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hoodie"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#jackets"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#joggers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#joggers_pant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#kajal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#kerala_saree"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#kevlar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#kmeez_shalwar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#knee"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#knee_length"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#latex"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#leather"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#leather_gloves"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#leggings"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lehenga"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lettering"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#liner"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lipcolors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lipliners"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lipwears"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#long_coat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#long_frocks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#male_clothing_variety"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mandarin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mascara"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#maxies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#messenger_bag"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#neck_wear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#night_gown"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#nose_accessories"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#overcoat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#paithani"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#palazzo_pants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#panama_hats"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#pants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#patiala_style"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#pcaps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#pencil"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#pencil_heel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#peplum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#peshawari_Chappal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#peter_pan"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#plazzo_style"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#poncho"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#portrait"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#powders"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#primer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#puff"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#quarter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#quilted"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#retro"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#rounded_flat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sack_back"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sandals"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#saree"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#scraf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#shawls"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#shearling"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sheer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#shirt_sleeves"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#shirts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#simple_caps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#skate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#skirts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#slashed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#slim_fit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sneakers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#socks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#summer_creams"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#summer_shawls"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sunblock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sweaters"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tant_saree"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#trench_coat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#trousers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tulip"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#turtle_neck"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#vest"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#winter_creams"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#winter_shawls"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#wool_coat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#wrap"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#zipper"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#zipup"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#caps/hats"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_categories"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_shoe_type"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_subaccessories"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_type_of"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#accessory_type"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#anklet"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#bags"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#bangles"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#blush-ons"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#blush_color"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#blush_quantity"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#bracelet_type"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#cloth_color"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#cloth_size"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#cloth_variance"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#color"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#color_of_eyeshade"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#cosmetics"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#ear_rings"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#eye_wears"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#eyeshade_quantity"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#eyeshades"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#fabric_type"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#face_cosmetics"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#foundation"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#foundation_quantity"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#foundation_shade"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#glasses"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hair_accessories"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#liner"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#liner_color"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#liner_quantity"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#lip_cosmetics"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#lipstick_quantity"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#mascara"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#mascara_color"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#mascara_quantity"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#no_of_eyeshades"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#no_of_shades"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#nose_rings"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#number"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#powder_quantity"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#powder_type"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#powders"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#primer"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#shade"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#shoe_variance"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#shoes_size"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#shoes_type"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#size"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#sock_color"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#sock_type"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#type"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#type_of_foundation"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#watch"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#nude_pink"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Accessaries"/>
+        <Class IRI="#Fashion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Analog_Watches"/>
+        <Class IRI="#Watches"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ankle"/>
+        <Class IRI="#Socks"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Backpack_Purse"/>
+        <Class IRI="#Hand_bags"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bangles"/>
+        <Class IRI="#hand_accessories"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Barbie_shoes"/>
+        <Class IRI="#Female_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bodysuits"/>
+        <Class IRI="#childern_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Boot"/>
+        <Class IRI="#Female_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Boski_shalwar_kmeez"/>
+        <Class IRI="#Kmeez_shalwar"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bow_tie"/>
+        <Class IRI="#Neck_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Brecletes"/>
+        <Class IRI="#Male_Accessaries"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cardigan"/>
+        <Class IRI="#Sweaters"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cargo_pants"/>
+        <Class IRI="#Pants"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cashmere"/>
+        <Class IRI="#Winter_Fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Catchers"/>
+        <Class IRI="#hair_accessories"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chappal"/>
+        <Class IRI="#Male_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Charms"/>
+        <Class IRI="#Female_Necklaces"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chicken"/>
+        <Class IRI="#Summer_Fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chiffon"/>
+        <Class IRI="#Summer_Fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Choker"/>
+        <Class IRI="#Female_Necklaces"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Choker_Necklaces"/>
+        <Class IRI="#Neclaces"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chokers"/>
+        <Class IRI="#Necklaces"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Clips"/>
+        <Class IRI="#hair_accessories"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Clothing"/>
+        <Class IRI="#Fashion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cluster"/>
+        <Class IRI="#Earrings"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Coat"/>
+        <Class IRI="#male_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Coat_shoes"/>
+        <Class IRI="#Female_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Collar"/>
+        <Class IRI="#Female_Necklaces"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cosmetics"/>
+        <Class IRI="#Fashion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cotton"/>
+        <Class IRI="#Summer_Fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cotton_shalwar_kmeez"/>
+        <Class IRI="#Kmeez_shalwar"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Crepe"/>
+        <Class IRI="#Summer_Fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Crew"/>
+        <Class IRI="#Socks"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Crew_neck"/>
+        <Class IRI="#Sweaters"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dangle"/>
+        <Class IRI="#Earrings"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Denim"/>
+        <Class IRI="#Summer_Fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Denim"/>
+        <Class IRI="#Winter_Fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Digital_Watches"/>
+        <Class IRI="#Watches"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dress_pants"/>
+        <Class IRI="#Pants"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Drop"/>
+        <Class IRI="#Earrings"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Duffle_coat"/>
+        <Class IRI="#Coat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Earrings"/>
+        <Class IRI="#Female_Accessaries"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fabric_gloves"/>
+        <Class IRI="#Gloves"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Feather_Necklaces"/>
+        <Class IRI="#Neclaces"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Female_Accessaries"/>
+        <Class IRI="#Accessaries"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Female_Brecletes"/>
+        <Class IRI="#hand_accessories"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Female_Necklaces"/>
+        <Class IRI="#Female_Accessaries"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Female_Shoes_variety"/>
+        <Class IRI="#foot_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Flannel"/>
+        <Class IRI="#Winter_Fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Flat_shoes"/>
+        <Class IRI="#Female_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fleece"/>
+        <Class IRI="#Jackets"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Glasses"/>
+        <Class IRI="#Female_Accessaries"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gloves"/>
+        <Class IRI="#Hand_and_arm_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hair_pins"/>
+        <Class IRI="#hair_accessories"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hand_and_arm_wear"/>
+        <Class IRI="#male_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hand_bags"/>
+        <Class IRI="#Female_Accessaries"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Handmade_Nacklaces"/>
+        <Class IRI="#Neclaces"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Heels"/>
+        <Class IRI="#Female_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hiking_pants"/>
+        <Class IRI="#Pants"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hobo"/>
+        <Class IRI="#Hand_bags"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hooded"/>
+        <Class IRI="#Jackets"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hoops"/>
+        <Class IRI="#Earrings"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Jacket"/>
+        <Class IRI="#Earrings"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Jackets"/>
+        <Class IRI="#male_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Jeans"/>
+        <Class IRI="#Jackets"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Joggers"/>
+        <Class IRI="#Male_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Jumpsuits"/>
+        <Class IRI="#childern_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Kevlar"/>
+        <Class IRI="#Gloves"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Khaki"/>
+        <Class IRI="#Summer_Fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Khari_sandal"/>
+        <Class IRI="#Male_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Kitten_heel"/>
+        <Class IRI="#Heels"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Kmeez_shalwar"/>
+        <Class IRI="#male_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Knee"/>
+        <Class IRI="#Socks"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Kurta_shalwar"/>
+        <Class IRI="#Kmeez_shalwar"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laceup_Heel"/>
+        <Class IRI="#Heels"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Latex_gloves"/>
+        <Class IRI="#Gloves"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Lawa_zari"/>
+        <Class IRI="#Khari_sandal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Lawn"/>
+        <Class IRI="#Summer_Fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Leather"/>
+        <Class IRI="#Jackets"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Leather_golves"/>
+        <Class IRI="#Gloves"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Locket"/>
+        <Class IRI="#Female_Necklaces"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Long_Shoes"/>
+        <Class IRI="#Male_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Male_Accessaries"/>
+        <Class IRI="#Accessaries"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Male_Shoes_variety"/>
+        <Class IRI="#foot_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Metal_bead"/>
+        <Class IRI="#Brecletes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mid_rings"/>
+        <Class IRI="#Rings"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Narrow_pants"/>
+        <Class IRI="#Pants"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Neck_wear"/>
+        <Class IRI="#male_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Necklaces"/>
+        <Class IRI="#Male_Accessaries"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Necktie"/>
+        <Class IRI="#Neck_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Neclaces"/>
+        <Class IRI="#Neck_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Nosepins"/>
+        <Class IRI="#nose_accessories"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Noserings"/>
+        <Class IRI="#nose_accessories"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Onesie"/>
+        <Class IRI="#childern_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Opera"/>
+        <Class IRI="#Female_Necklaces"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Organza"/>
+        <Class IRI="#Summer_Fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Over_coat"/>
+        <Class IRI="#Coat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Oxfords"/>
+        <Class IRI="#Male_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pakistani_shalwar_kmeez"/>
+        <Class IRI="#Kmeez_shalwar"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pandent_Necklaces"/>
+        <Class IRI="#Neclaces"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pant_coat"/>
+        <Class IRI="#Wedding_Wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pants"/>
+        <Class IRI="#male_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pendant"/>
+        <Class IRI="#Female_Necklaces"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pendant_Necklaces"/>
+        <Class IRI="#Necklaces"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Polyester"/>
+        <Class IRI="#Winter_Fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Puffer"/>
+        <Class IRI="#Jackets"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Puffer_coat"/>
+        <Class IRI="#Coat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pumps"/>
+        <Class IRI="#Female_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Quarter"/>
+        <Class IRI="#Socks"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Quarter_zip"/>
+        <Class IRI="#Sweaters"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rings"/>
+        <Class IRI="#Female_Accessaries"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rompers"/>
+        <Class IRI="#childern_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sandals"/>
+        <Class IRI="#children_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Satin"/>
+        <Class IRI="#Winter_Fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#School_Shoes"/>
+        <Class IRI="#Female_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#School_shoes"/>
+        <Class IRI="#Male_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Shalwar_kmeez"/>
+        <Class IRI="#Wedding_Wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sharwani"/>
+        <Class IRI="#Wedding_Wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Short_frocks"/>
+        <Class IRI="#Wedding_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Shorts"/>
+        <Class IRI="#childern_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sleepers"/>
+        <Class IRI="#childern_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sleeveless"/>
+        <Class IRI="#Jackets"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sleeveless_shirts"/>
+        <Class IRI="#childern_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Smart_Watches"/>
+        <Class IRI="#Watches"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sneakers"/>
+        <Class IRI="#Male_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sneakers_shoes"/>
+        <Class IRI="#children_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Socks"/>
+        <Class IRI="#foot_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Stiletto_Heel"/>
+        <Class IRI="#Heels"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Stone_bead"/>
+        <Class IRI="#Brecletes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Stud"/>
+        <Class IRI="#Earrings"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Summer_Fabrics"/>
+        <Class IRI="#fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sweaters"/>
+        <Class IRI="#male_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#T_shirts"/>
+        <Class IRI="#childern_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#The_ascot"/>
+        <Class IRI="#Neck_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#The_bolo"/>
+        <Class IRI="#Neck_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tilly_wali"/>
+        <Class IRI="#Khari_sandal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tote"/>
+        <Class IRI="#Hand_bags"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tracksuit_bottoms"/>
+        <Class IRI="#Pants"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Traditional_coat"/>
+        <Class IRI="#Coat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Turtle_neck"/>
+        <Class IRI="#Sweaters"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Velvet"/>
+        <Class IRI="#Winter_Fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Watches"/>
+        <Class IRI="#Accessaries"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wedding_Wear"/>
+        <Class IRI="#male_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wedding_wear"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wedge"/>
+        <Class IRI="#Heels"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Winter_Fabrics"/>
+        <Class IRI="#fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wooden_bead"/>
+        <Class IRI="#Brecletes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wool"/>
+        <Class IRI="#Winter_Fabrics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Zip_up"/>
+        <Class IRI="#Sweaters"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#abaya_caps"/>
+        <Class IRI="#head_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#abayas"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#anarakali_style"/>
+        <Class IRI="#kmeez_shalwar"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ankle"/>
+        <Class IRI="#socks"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#anklet"/>
+        <Class IRI="#Female_Accessaries"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#baggy"/>
+        <Class IRI="#pants"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#baguetta"/>
+        <Class IRI="#Hand_bags"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ball_gown"/>
+        <Class IRI="#gowns"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#batwing"/>
+        <Class IRI="#abayas"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bb_creams"/>
+        <Class IRI="#creams"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bell"/>
+        <Class IRI="#shirt_sleeves"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bell_bottoms"/>
+        <Class IRI="#trousers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#beret"/>
+        <Class IRI="#caps/hats"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#blouse"/>
+        <Class IRI="#shirts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bonnets"/>
+        <Class IRI="#caps/hats"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bubble"/>
+        <Class IRI="#skirts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#butterfly"/>
+        <Class IRI="#shirt_sleeves"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#capri_pents"/>
+        <Class IRI="#trousers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#cardigan"/>
+        <Class IRI="#sweaters"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#cargo"/>
+        <Class IRI="#pants"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#cascade"/>
+        <Class IRI="#collars"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#chains"/>
+        <Class IRI="#Necklaces"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#childern_clothing_variety"/>
+        <Class IRI="#Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#children_Shoes_variety"/>
+        <Class IRI="#foot_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#classic"/>
+        <Class IRI="#abayas"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#close_boddied"/>
+        <Class IRI="#gowns"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#clutches"/>
+        <Class IRI="#Hand_bags"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#coat"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#coin_bags"/>
+        <Class IRI="#Hand_bags"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#collars"/>
+        <Class IRI="#neck_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#concealers"/>
+        <Class IRI="#facewears"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#corset"/>
+        <Class IRI="#gowns"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#cowl"/>
+        <Class IRI="#collars"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#creams"/>
+        <Class IRI="#facewears"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#crew"/>
+        <Class IRI="#collars"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#cropped"/>
+        <Class IRI="#pants"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#culottes"/>
+        <Class IRI="#pants"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#denim"/>
+        <Class IRI="#jackets"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#designer_saree"/>
+        <Class IRI="#saree"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dress"/>
+        <Class IRI="#shirts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dupatta"/>
+        <Class IRI="#head_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#eastren"/>
+        <Class IRI="#pants"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#embrioded_caps"/>
+        <Class IRI="#abaya_caps"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#eyewears"/>
+        <Class IRI="#Cosmetics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fabric_gloves"/>
+        <Class IRI="#gloves"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fabrics"/>
+        <Class IRI="#Fashion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#facewears"/>
+        <Class IRI="#Cosmetics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fanny_pack"/>
+        <Class IRI="#Hand_bags"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#female_clothing_variety"/>
+        <Class IRI="#Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#flarred"/>
+        <Class IRI="#pants"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#floor_length_gown"/>
+        <Class IRI="#Wedding_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#foot_wear"/>
+        <Class IRI="#Fashion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#foundations"/>
+        <Class IRI="#facewears"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#front_slit_style"/>
+        <Class IRI="#kmeez_shalwar"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fur"/>
+        <Class IRI="#hood"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#gathered"/>
+        <Class IRI="#skirts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#gloves"/>
+        <Class IRI="#hand_and_arm_coverings"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#gowns"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#grannys"/>
+        <Class IRI="#gowns"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hair_accessories"/>
+        <Class IRI="#Female_Accessaries"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#half_zipper"/>
+        <Class IRI="#sweaters"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hand_accessories"/>
+        <Class IRI="#Female_Accessaries"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hand_and_arm_coverings"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#harem"/>
+        <Class IRI="#pants"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#head_wear"/>
+        <Class IRI="#Fashion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#heels"/>
+        <Class IRI="#children_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hood"/>
+        <Class IRI="#jackets"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hoodie"/>
+        <Class IRI="#sweaters"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#jackets"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#joggers"/>
+        <Class IRI="#children_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#joggers_pant"/>
+        <Class IRI="#Pants"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#kajal"/>
+        <Class IRI="#eyewears"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#kerala_saree"/>
+        <Class IRI="#saree"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#kevlar"/>
+        <Class IRI="#gloves"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#kmeez_shalwar"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#knee"/>
+        <Class IRI="#socks"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#knee_length"/>
+        <Class IRI="#kmeez_shalwar"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#latex"/>
+        <Class IRI="#gloves"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#leather"/>
+        <Class IRI="#jackets"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#leather_gloves"/>
+        <Class IRI="#gloves"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#leggings"/>
+        <Class IRI="#trousers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lehenga"/>
+        <Class IRI="#Wedding_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lettering"/>
+        <Class IRI="#shirts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#liner"/>
+        <Class IRI="#eyewears"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lipcolors"/>
+        <Class IRI="#lipwears"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lipliners"/>
+        <Class IRI="#lipwears"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lipwears"/>
+        <Class IRI="#Cosmetics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#long_coat"/>
+        <Class IRI="#coat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#long_frocks"/>
+        <Class IRI="#Wedding_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#male_clothing_variety"/>
+        <Class IRI="#Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mandarin"/>
+        <Class IRI="#collars"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mascara"/>
+        <Class IRI="#eyewears"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#maxies"/>
+        <Class IRI="#Wedding_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#messenger_bag"/>
+        <Class IRI="#Hand_bags"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#neck_wear"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#night_gown"/>
+        <Class IRI="#gowns"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#nose_accessories"/>
+        <Class IRI="#Female_Accessaries"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#overcoat"/>
+        <Class IRI="#jackets"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#paithani"/>
+        <Class IRI="#saree"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#palazzo_pants"/>
+        <Class IRI="#trousers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#panama_hats"/>
+        <Class IRI="#caps/hats"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#pants"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#patiala_style"/>
+        <Class IRI="#kmeez_shalwar"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#pcaps"/>
+        <Class IRI="#caps/hats"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#pencil"/>
+        <Class IRI="#skirts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#pencil_heel"/>
+        <Class IRI="#Heels"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#peplum"/>
+        <Class IRI="#skirts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#peshawari_Chappal"/>
+        <Class IRI="#Khari_sandal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#peter_pan"/>
+        <Class IRI="#collars"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#plazzo_style"/>
+        <Class IRI="#kmeez_shalwar"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polo"/>
+        <Class IRI="#hood"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#poncho"/>
+        <Class IRI="#sweaters"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#portrait"/>
+        <Class IRI="#abayas"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#powders"/>
+        <Class IRI="#facewears"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#primer"/>
+        <Class IRI="#facewears"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#puff"/>
+        <Class IRI="#shirt_sleeves"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#quarter"/>
+        <Class IRI="#socks"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#quilted"/>
+        <Class IRI="#jackets"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#retro"/>
+        <Class IRI="#shirts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#rounded_flat"/>
+        <Class IRI="#collars"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sack_back"/>
+        <Class IRI="#gowns"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sandals"/>
+        <Class IRI="#Female_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#saree"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#scraf"/>
+        <Class IRI="#head_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#shawls"/>
+        <Class IRI="#head_wear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#shearling"/>
+        <Class IRI="#jackets"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sheer"/>
+        <Class IRI="#abayas"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#shirt_sleeves"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#shirts"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#simple_caps"/>
+        <Class IRI="#abaya_caps"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#skate"/>
+        <Class IRI="#hood"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#skirts"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#slashed"/>
+        <Class IRI="#shirt_sleeves"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#slim_fit"/>
+        <Class IRI="#hood"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sneakers"/>
+        <Class IRI="#Female_Shoes_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#socks"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#summer_creams"/>
+        <Class IRI="#creams"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#summer_shawls"/>
+        <Class IRI="#shawls"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sunblock"/>
+        <Class IRI="#facewears"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sweaters"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tant_saree"/>
+        <Class IRI="#saree"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#trench_coat"/>
+        <Class IRI="#coat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#trousers"/>
+        <Class IRI="#female_clothing_variety"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tulip"/>
+        <Class IRI="#skirts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#turtle_neck"/>
+        <Class IRI="#sweaters"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#vest"/>
+        <Class IRI="#sweaters"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#winter_creams"/>
+        <Class IRI="#creams"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#winter_shawls"/>
+        <Class IRI="#shawls"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#wool_coat"/>
+        <Class IRI="#coat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#wrap"/>
+        <Class IRI="#skirts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#zipper"/>
+        <Class IRI="#pants"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#zipup"/>
+        <Class IRI="#hood"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#caps/hats"/>
+        <Class IRI="#head_wear"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#Cashmere"/>
+        <Class IRI="#Denim"/>
+        <Class IRI="#Flannel"/>
+        <Class IRI="#Polyester"/>
+        <Class IRI="#Satin"/>
+        <Class IRI="#Velvet"/>
+        <Class IRI="#Wool"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Chicken"/>
+        <Class IRI="#Chiffon"/>
+        <Class IRI="#Cotton"/>
+        <Class IRI="#Crepe"/>
+        <Class IRI="#Denim"/>
+        <Class IRI="#Khaki"/>
+        <Class IRI="#Lawn"/>
+        <Class IRI="#Organza"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Summer_Fabrics"/>
+        <Class IRI="#Winter_Fabrics"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#concealers"/>
+        <Class IRI="#foundations"/>
+        <Class IRI="#powders"/>
+        <Class IRI="#primer"/>
+        <Class IRI="#sunblock"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#kajal"/>
+        <Class IRI="#liner"/>
+        <Class IRI="#mascara"/>
+    </DisjointClasses>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_categories"/>
+        <Class IRI="#Fashion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_shoe_type"/>
+        <Class IRI="#foot_wear"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_subaccessories"/>
+        <Class IRI="#Accessaries"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_type_of"/>
+        <Class IRI="#childern_clothing_variety"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_type_of"/>
+        <Class IRI="#female_clothing_variety"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_type_of"/>
+        <Class IRI="#male_clothing_variety"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_categories"/>
+        <Class IRI="#Accessaries"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_categories"/>
+        <Class IRI="#Clothing"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_categories"/>
+        <Class IRI="#Cosmetics"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_categories"/>
+        <Class IRI="#foot_wear"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_shoe_type"/>
+        <Class IRI="#Female_Shoes_variety"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_shoe_type"/>
+        <Class IRI="#Male_Shoes_variety"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_shoe_type"/>
+        <Class IRI="#children_Shoes_variety"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_subaccessories"/>
+        <Class IRI="#Female_Accessaries"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_subaccessories"/>
+        <Class IRI="#Male_Accessaries"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#is_type_of"/>
+        <Class IRI="#Clothing"/>
+    </ObjectPropertyRange>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#anklet"/>
+        <DataProperty IRI="#accessory_type"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#bags"/>
+        <DataProperty IRI="#accessory_type"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#bangles"/>
+        <DataProperty IRI="#accessory_type"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#blush-ons"/>
+        <DataProperty IRI="#cosmetics"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#blush_color"/>
+        <DataProperty IRI="#blush-ons"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#blush_quantity"/>
+        <DataProperty IRI="#blush-ons"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#bracelet_type"/>
+        <DataProperty IRI="#accessory_type"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#cloth_color"/>
+        <DataProperty IRI="#cloth_variance"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#cloth_size"/>
+        <DataProperty IRI="#cloth_variance"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#color"/>
+        <DataProperty IRI="#bangles"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#color_of_eyeshade"/>
+        <DataProperty IRI="#eyeshades"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#ear_rings"/>
+        <DataProperty IRI="#accessory_type"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#eye_wears"/>
+        <DataProperty IRI="#cosmetics"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#eyeshade_quantity"/>
+        <DataProperty IRI="#eyeshades"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#eyeshades"/>
+        <DataProperty IRI="#cosmetics"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#face_cosmetics"/>
+        <DataProperty IRI="#cosmetics"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#foundation"/>
+        <DataProperty IRI="#face_cosmetics"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#foundation_quantity"/>
+        <DataProperty IRI="#foundation"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#foundation_shade"/>
+        <DataProperty IRI="#foundation"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#glasses"/>
+        <DataProperty IRI="#accessory_type"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#hair_accessories"/>
+        <DataProperty IRI="#accessory_type"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#liner"/>
+        <DataProperty IRI="#eye_wears"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#liner_color"/>
+        <DataProperty IRI="#liner"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#liner_quantity"/>
+        <DataProperty IRI="#liner"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#lip_cosmetics"/>
+        <DataProperty IRI="#cosmetics"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#lipstick_quantity"/>
+        <DataProperty IRI="#lip_cosmetics"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#mascara"/>
+        <DataProperty IRI="#eye_wears"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#mascara_color"/>
+        <DataProperty IRI="#mascara"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#mascara_quantity"/>
+        <DataProperty IRI="#mascara"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#no_of_eyeshades"/>
+        <DataProperty IRI="#eyeshades"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#no_of_shades"/>
+        <DataProperty IRI="#blush-ons"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#nose_rings"/>
+        <DataProperty IRI="#accessory_type"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#number"/>
+        <DataProperty IRI="#bangles"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#powder_quantity"/>
+        <DataProperty IRI="#powders"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#powder_type"/>
+        <DataProperty IRI="#powders"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#powders"/>
+        <DataProperty IRI="#face_cosmetics"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#primer"/>
+        <DataProperty IRI="#face_cosmetics"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#shade"/>
+        <DataProperty IRI="#powders"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#shoes_size"/>
+        <DataProperty IRI="#shoe_variance"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#shoes_type"/>
+        <DataProperty IRI="#shoe_variance"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#size"/>
+        <DataProperty IRI="#glasses"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#type"/>
+        <DataProperty IRI="#lip_cosmetics"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#type_of_foundation"/>
+        <DataProperty IRI="#foundation"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#watch"/>
+        <DataProperty IRI="#accessory_type"/>
+    </SubDataPropertyOf>
+    <DataPropertyDomain>
+        <DataProperty IRI="#accessory_type"/>
+        <Class IRI="#Accessaries"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#anklet"/>
+        <Class IRI="#anklet"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#bags"/>
+        <Class IRI="#Hand_bags"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#bangles"/>
+        <Class IRI="#Bangles"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#blush-ons"/>
+        <Class IRI="#facewears"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#blush_color"/>
+        <Class IRI="#facewears"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#blush_quantity"/>
+        <Class IRI="#facewears"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#bracelet_type"/>
+        <Class IRI="#Female_Brecletes"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#cloth_color"/>
+        <Class IRI="#Clothing"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#cloth_size"/>
+        <Class IRI="#Clothing"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#cloth_variance"/>
+        <Class IRI="#Clothing"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#color"/>
+        <Class IRI="#Bangles"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#color_of_eyeshade"/>
+        <Class IRI="#eyewears"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#cosmetics"/>
+        <Class IRI="#Cosmetics"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#ear_rings"/>
+        <Class IRI="#Earrings"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#eye_wears"/>
+        <Class IRI="#eyewears"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#eyeshade_quantity"/>
+        <Class IRI="#eyewears"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#eyeshades"/>
+        <Class IRI="#eyewears"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#fabric_type"/>
+        <Class IRI="#fabrics"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#face_cosmetics"/>
+        <Class IRI="#facewears"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#foundation"/>
+        <Class IRI="#foundations"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#foundation_quantity"/>
+        <Class IRI="#foundations"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#foundation_shade"/>
+        <Class IRI="#foundations"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#glasses"/>
+        <Class IRI="#Glasses"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hair_accessories"/>
+        <Class IRI="#hair_accessories"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#liner"/>
+        <Class IRI="#liner"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#liner_color"/>
+        <Class IRI="#liner"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#liner_quantity"/>
+        <Class IRI="#liner"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#lip_cosmetics"/>
+        <Class IRI="#lipwears"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#lipstick_quantity"/>
+        <Class IRI="#lipwears"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#mascara"/>
+        <Class IRI="#mascara"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#mascara_color"/>
+        <Class IRI="#mascara"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#mascara_quantity"/>
+        <Class IRI="#mascara"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#no_of_eyeshades"/>
+        <Class IRI="#eyewears"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#no_of_shades"/>
+        <Class IRI="#facewears"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#nose_rings"/>
+        <Class IRI="#nose_accessories"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#number"/>
+        <Class IRI="#Bangles"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#powder_quantity"/>
+        <Class IRI="#powders"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#powder_type"/>
+        <Class IRI="#powders"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#powders"/>
+        <Class IRI="#powders"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#primer"/>
+        <Class IRI="#primer"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#shade"/>
+        <Class IRI="#powders"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#shoe_variance"/>
+        <Class IRI="#foot_wear"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#shoes_size"/>
+        <Class IRI="#foot_wear"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#shoes_type"/>
+        <Class IRI="#foot_wear"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#size"/>
+        <Class IRI="#Glasses"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sock_color"/>
+        <Class IRI="#Socks"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sock_type"/>
+        <Class IRI="#Socks"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#type"/>
+        <Class IRI="#lipwears"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#type_of_foundation"/>
+        <Class IRI="#foundations"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#watch"/>
+        <Class IRI="#Watches"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="#accessory_type"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#anklet"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#bags"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#bangles"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#blush-ons"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#blush_color"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#blush_quantity"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#bracelet_type"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#cloth_color"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#cloth_size"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#cloth_variance"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#color"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#color_of_eyeshade"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#cosmetics"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#ear_rings"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#eye_wears"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#eyeshade_quantity"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#eyeshades"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#fabric_type"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#face_cosmetics"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#foundation"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#foundation_quantity"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#foundation_shade"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#glasses"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hair_accessories"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#liner"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#liner_color"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#liner_quantity"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#lip_cosmetics"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#lipstick_quantity"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#mascara_color"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#mascara_quantity"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#no_of_eyeshades"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#no_of_shades"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#nose_rings"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#number"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#powder_quantity"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#powder_type"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#powders"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#primer"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#shade"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#shoe_variance"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#shoes_size"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#shoes_type"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#size"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#sock_color"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#sock_type"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#type"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#type_of_foundation"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#watch"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
